@@ -21,8 +21,7 @@ Retail and e-commerce distribution networks face an ongoing trade-off: over-orde
 
 ```bash
 # Clone the repository
-git clone [https://github.com/puneetgoswami1/supply-chain-inventory-optimization-engine.git](https://github.com/puneetgoswami1/supply-chain-inventory-optimization-engine.git)
-cd supply-chain-inventory-optimization-engine
+git clone https://github.com/puneetgoswami1/supply-chain-inventory-optimization-engine.git
 
 # Install dependencies
 pip install -r requirements.txt
